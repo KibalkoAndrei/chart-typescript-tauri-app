@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+
+
+.table {
+  display: flex;
+  width: 300px;
+  height: 100px;
+  margin: 50px auto;
+  overflow-y: scroll;
+  
+}
+
+.tr1 {
+  padding: 10px 40px;
+  border-right: 1px solid black ;
+}
+
+.tr2 {
+  padding: 8px 20px;
+  border-right: 1px solid black ;
+}
+
+.tr3 {
+  padding: 10px;
+}
+
+
+
